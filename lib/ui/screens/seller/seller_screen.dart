@@ -284,7 +284,8 @@ class _SellerScreenState extends State<SellerScreen> {
         }
       }
       // Show result in SnackBar
-      if (mounted) {
+      String role = result!.split(":")[1];
+      if (mounted && role != "buyer") {
         ScaffoldMessenger.of(
           context,
         ).showSnackBar(SnackBar(content: Text(result!)));

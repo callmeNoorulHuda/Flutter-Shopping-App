@@ -280,7 +280,8 @@ class _BuyerScreenState extends State<BuyerScreen> {
           );
         }
       }
-      if (mounted) {
+      String role = result!.split(":")[1];
+      if (mounted && role != "seller") {
         ScaffoldMessenger.of(
           context,
         ).showSnackBar(SnackBar(content: Text(result!)));
