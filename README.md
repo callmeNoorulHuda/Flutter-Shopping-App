@@ -128,7 +128,7 @@ lib/
 
 ## 🎬 Demo
 
-[![Watch the demo on LinkedIn](https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN_POST_URL)
+[![Watch the demo on LinkedIn](https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/posts/noor-ul-huda19_flutter-firebase-mobiledevelopment-activity-7348298372241330178-zPBh?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAADPbO1UBX_Q9ScUgZgE4SmH6DYuAsFsH6As&utm_campaign=copy_link)
 
 > Click to view the full app demo on LinkedIn.
 
