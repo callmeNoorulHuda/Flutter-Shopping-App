@@ -94,7 +94,7 @@ lib/
 
 ### 🖼️ **Login Screen**
 <p align="center">
-  <img src="assets/screenshots/app_logo.jpg" alt="Login Screen" width="246"/>
+  <img src="assets/screenshots/login_screen.jpg" alt="Login Screen" width="246"/>
 </p>
 
 ### 🔑 **Authentication Screens**
