@@ -99,9 +99,9 @@ lib/
 
 ### 🔑 **Authentication Screens**
 
-| Buyer Login                                                                    | Seller Login                                                                    |
-|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| <img src="assets/screenshots/login_screen.jpg" alt="Buyer Login" width="250"/> | <img src="assets/screenshots/seller_login.jpg" alt="Seller Login" width="250"/> |
+| Buyer Login                                                                   | Seller Login                                                                    |
+|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| <img src="assets/screenshots/buyer_login.jpg" alt="Buyer Login" width="250"/> | <img src="assets/screenshots/seller_login.jpg" alt="Seller Login" width="250"/> |
 
 ---
 
