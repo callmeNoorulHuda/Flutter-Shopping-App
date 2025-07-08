@@ -279,12 +279,11 @@ class _BuyerScreenState extends State<BuyerScreen> {
             ),
           );
         }
-        // Show result in SnackBar
-        else if (mounted) {
-          ScaffoldMessenger.of(
-            context,
-          ).showSnackBar(SnackBar(content: Text(result)));
-        }
+      }
+      if (mounted) {
+        ScaffoldMessenger.of(
+          context,
+        ).showSnackBar(SnackBar(content: Text(result!)));
       }
     }
   }

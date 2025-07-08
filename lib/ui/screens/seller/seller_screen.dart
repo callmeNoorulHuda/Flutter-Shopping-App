@@ -282,12 +282,12 @@ class _SellerScreenState extends State<SellerScreen> {
             ),
           );
         }
-        // Show result in SnackBar
-        else if (mounted) {
-          ScaffoldMessenger.of(
-            context,
-          ).showSnackBar(SnackBar(content: Text(result)));
-        }
+      }
+      // Show result in SnackBar
+      if (mounted) {
+        ScaffoldMessenger.of(
+          context,
+        ).showSnackBar(SnackBar(content: Text(result!)));
       }
     }
   }
